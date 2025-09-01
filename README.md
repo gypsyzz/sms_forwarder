@@ -14,3 +14,4 @@ where the file_path is to be changed.\
 \
 If your messages are not in ASCII, switch on the PDU storage to convert it \
 ```store_received_pdu = 3```
+Requires a Telegram bot account to send message to yourself. Refer to @BotFather for creation instruction
